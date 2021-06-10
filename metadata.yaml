@@ -1,0 +1,35 @@
+_repo: Learning-to-Spell-A-Manual-for-Teachers-Using-the-Aldine-Speller_65441
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Sherman, Frank J.
+    gutenberg_agent_id: '53348'
+    url: http://www.gutenberg.org/2009/agents/53348
+  - agent_name: Bryce, Catherine T. (Catherine Turner)
+    aliases:
+    - Bryce, C. T. (Catherine Turner)
+    - Bryce, Catherine Turner
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '53290'
+    url: http://www.gutenberg.org/2009/agents/53290
+  - agent_name: Kallom, Arthur W.
+    gutenberg_agent_id: '53349'
+    url: http://www.gutenberg.org/2009/agents/53349
+description: ''
+gutenberg_issued: '2021-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcc 'LB'
+- !lcsh 'Spellers -- Textbooks'
+- !lcsh 'Spellers'
+- GITenberg
+title: 'Learning to Spell: A Manual for Teachers Using the Aldine Speller'
+url: http://www.gutenberg.org/ebooks/65441
